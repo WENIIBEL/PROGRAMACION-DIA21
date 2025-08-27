@@ -1,0 +1,15 @@
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\bin\Debug\net9.0\consoleApp.exe
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\bin\Debug\net9.0\consoleApp.deps.json
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\bin\Debug\net9.0\consoleApp.runtimeconfig.json
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\bin\Debug\net9.0\consoleApp.dll
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\bin\Debug\net9.0\consoleApp.pdb
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.AssemblyInfoInputs.cache
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.AssemblyInfo.cs
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.sourcelink.json
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.dll
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\refint\consoleApp.dll
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.pdb
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\consoleApp.genruntimeconfig.cache
+C:\Users\salak401\PROGRAMACION-DIA21\consoleApp\obj\Debug\net9.0\ref\consoleApp.dll
